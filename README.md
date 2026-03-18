@@ -1,4 +1,4 @@
-# msc-dissertation
+# Bank Account Fraud Detection using ML & Deep Learning
 📌 Project Overview
 This project investigates the application of Machine Learning and Deep Learning to identify fraudulent activities in digital banking. Using a high-dimensional synthetic dataset, the research addresses the challenge of imbalanced data (where fraud cases are rare) to improve the precision of security protocols.
 
