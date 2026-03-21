@@ -13,7 +13,7 @@ Deep Learning: Engineered a Multilayer Perceptron (MLP) and a custom Multilayer 
 Evaluation Metrics: Focused on Precision-Recall (PR) Curves, F1-Score, and AUC-ROC to ensure the model effectively catches fraud while minimizing false alarms for legitimate customers.
 
 ### 📊 Analytical Outcome
-The study identified XGBoost and the Multilayer Neural Network as the most robust models for this use case. The final framework successfully reduced false-positive rates, offering a scalable solution for real-time anomaly detection in financial institutions.
+Achieved 79.3% accuracy with the Multilayer Neural Network (TensorFlow) using Accuracy, AUC, and Precision metrics. Developed an interactive Tableau dashboard to visualize key fraud indicators, including fraud frequency by payment type, monthly fraud volume, and customer age demographics, providing a fairness-aware framework for financial risk assessment.
 
 ### 🚀 Tech Stack
-Python | TensorFlow | Scikit-learn | XGBoost | Matplotlib | Seaborn
+Python | TensorFlow | Scikit-learn | XGBoost | Matplotlib | Seaborn | Tableau
